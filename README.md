@@ -1,4 +1,4 @@
-# Style-Guide-for-openResty-Code
+# Style-Guide-for-OpenResty-Code
 
 We write code for the [LuaJIT](https://github.com/Kong/kong/issues/new)
 interpreter, **not** Lua-PUC. As such, you should follow the LuaJIT best
